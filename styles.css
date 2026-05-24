@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(70, 186, 128);
+}
+body {
+    font-family: system-ui, -apple-system, sans-serif;
+    line-height: 1.5;    
+}
+ul{
+    list-style: upper-roman outside none;
+    padding-left: 2rem;
+}
